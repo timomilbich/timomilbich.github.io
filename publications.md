@@ -44,7 +44,7 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (C
 
 
 <p><b>Towards Learning a Realistic Rendering of Human Behavior </b>
-<a type="button" href="{{ site.baseurl}}/papers/hbugen18.pdf" target="_blank">
+<a type="button" href="{{ site.baseurl}}/paper/hbugen18.pdf" target="_blank">
 [PDF]</a> 
 <a type="button" href="{{ site.baseurl }}/bibtex/hbugen18.bib" target="_blank">
 [BibTex]</a><br />
