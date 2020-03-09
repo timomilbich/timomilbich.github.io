@@ -1,20 +1,20 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "Timo Milbich"
+description:        "Ph.D. student at Heidelberg University"
 
 url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
-gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+author:             "timomilbich"
+email:              "timo_milbich@gmx.de"
+#gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
+twitter:            "timoMil"
+email:              "timo_milbich@gmx.de"
+github:             "timomilbich"
+#pinterest:          "jhondoe"
+linkedin:           "timomilbich"
+#facebook:           "jhondoe"
 
-disqus_shortname:   "thinker3197"
+disqus_shortname:   "timomilbich"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         "/files/bg_crop.jpeg"
 
 paginate:           5
 paginate_path:      "/page:num/"
@@ -25,10 +25,16 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
-    href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+  - name:           "Home"
+    href:           "/"
+  - name:           "About Me"
+    href:           "/aboutme"
+  - name:           "Career"
+    href:           "/career"
+  - name:           "Publications"
+    href:           "/publications"
+  - name:           "Contact"
+    href:           "/contact"
 
 sass:
   style:            :compressed
@@ -49,3 +55,5 @@ defaults:
 
 gems:
   - jekyll-paginate
+
+highlighter: green
