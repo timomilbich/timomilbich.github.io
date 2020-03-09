@@ -3,14 +3,11 @@ description:        "Ph.D. Student - Computer Vision Heidelberg University"
 
 url:                ""
 author:             "timomilbich"
-email:              "timo_milbich@gmx.de"
-#gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
 twitter:            "timoMil"
 email:              "timo_milbich@gmx.de"
 github:             "timomilbich"
 #pinterest:          "jhondoe"
 linkedin:           "timomilbich"
-#facebook:           "jhondoe"
 
 disqus_shortname:   "timomilbich"
 
@@ -25,11 +22,11 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "Home"
+  - name:           "News"
     href:           "/"
   - name:           "About Me"
     href:           "/aboutme"
-  - name:           "Career"
+  - name:           "Education"
     href:           "/career"
   - name:           "Publications"
     href:           "/publications"
