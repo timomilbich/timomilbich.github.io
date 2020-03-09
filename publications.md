@@ -82,7 +82,7 @@ Proceedings of the IEEE International Conference on Computer Vision (ICCV) Works
 <p><b>May I enter the roundabout? A time-to-contact computation based on stereo-vision</b>
 <a type="button" href="{{ site.baseurl}}/paper/iv12_may_i_enter_the_roundabout.pdf" target="_blank">
 [PDF]</a> 
-<a type="button" href="{{ site.baseurl }}/bibtex/magnification_cvpr20.md" target="_blank">
+<a type="button" href="{{ site.baseurl }}/bibtex/iv12_may_i_enter_the_roundabout.bib" target="_blank">
 [BibTex]</a><br />
 
 M.Muffert, T.Milbich, D.Pfeiffer and U.Franke<br />
