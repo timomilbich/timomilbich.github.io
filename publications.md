@@ -37,7 +37,7 @@ Pattern Recognition Journal (PR), Volume 102, June 2020 <br />
 
 D.Lorenz, L.Bereska, T.Milbich and B.Ommer<br />
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019<br />
-<b style="color:DodgerBlue;">Shortlist Best Paper Award, Oral</b>
+<b style="color:DodgerBlue;">[Oral] [Shortlist Best Paper Award]</b>
 </p>
 
 
@@ -80,12 +80,12 @@ Proceedings of the IEEE International Conference on Computer Vision (ICCV) Works
 
 
 <p><b>May I enter the roundabout? A time-to-contact computation based on stereo-vision</b>
-<a type="button" href="{{ site.baseurl}}/papers/magnification_cvpr20.pdf" target="_blank">
+<a type="button" href="{{ site.baseurl}}/paper/iv12_may_i_enter_the_roundabout.pdf" target="_blank">
 [PDF]</a> 
 <a type="button" href="{{ site.baseurl }}/bibtex/magnification_cvpr20.md" target="_blank">
 [BibTex]</a><br />
 
 M.Muffert, T.Milbich, D.Pfeiffer and U.Franke<br />
 IEEE Intelligent Vehicles Symposium (IV) 2012<br />
-<b style="color:DodgerBlue;">2nd Best Paper Award, Oral</b></p>
+<b style="color:DodgerBlue;">[Oral] [2nd Best Paper Award]</b></p>
 
