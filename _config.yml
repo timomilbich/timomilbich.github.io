@@ -52,5 +52,3 @@ defaults:
 
 gems:
   - jekyll-paginate
-
-highlighter: green
