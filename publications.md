@@ -4,9 +4,9 @@ permalink: /publications/
 ---
 A huge thanks to all my collaborators which helped to successfully realize the following projects!
 
-
 <sup id="fn1">*Indicates equal contribution.</sup>
 
+<hr>
 
 <p><b>PADS: Policy-adapted Sampling for Visual Similarity Learning </b>
 <a type="button" href="{{ site.baseurl}}/papers/magnification_cvpr20.pdf" target="_blank">
