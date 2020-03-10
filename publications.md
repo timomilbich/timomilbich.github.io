@@ -2,7 +2,10 @@
 title: Publications
 permalink: /publications/
 ---
-<sup id="fn1">*Indicates equal contribution</sup>
+A huge thanks to all my collaborators which helped to successfully realize the following projects!
+
+
+<sup id="fn1">*Indicates equal contribution.</sup>
 
 
 <p><b>PADS: Policy-adapted Sampling for Visual Similarity Learning </b>
