@@ -7,6 +7,15 @@ My interest in and passion for processing and analyzing visual data sparked duri
 
 Aside from my research and teaching duties, I love to play Volleyball with my team and friends, hike and get lost in nature around the globe or just spend my time in cafes reading books and learning new things.
 
+
+<h3> Research Interests </h3>
+<span>&#8226;</span> Deep Metric Learning <br />
+<span>&#8226;</span> Unsupervised / Self-Supervised Learning <br />
+<span>&#8226;</span> Semi-Supervised Learning <br />
+<span>&#8226;</span> Pose Understanding <br />
+<span>&#8226;</span> Image representations and Zero-shot Generalization <br />
+
+
 <h3> Education </h3>
 
 <b>present</b> <span style="padding-left: 20px;"> <b style="color:DodgerBlue;">Ph.D. in Computer Vision and Deep Learning </b> <br />
