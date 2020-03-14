@@ -29,7 +29,7 @@ Aside from my research and teaching duties, I love to play Volleyball with my te
 <b>present</b> <span style="padding-left: 20px;">                HCI, Heidelberg University, Germany <br />
 <span style="padding-left: 110px;">        <span>&#8226;</span>        Computer Vision, Deep Learning <br />
 <span style="padding-left: 110px;">        <span>&#8226;</span>        Lead and implementation of research projects <br />
-<span style="padding-left: 110px;">        <span>&#8226;</span>        Head teaching assistant (Lectures: Deep Vision, Artifical Intelligence, Object Recogition and Image Understanding) <br />
+<span style="padding-left: 110px;">        <span>&#8226;</span>        Head teaching assistant (Lectures: Deep Vision, Artificial intelligence, Object Recogition and Image Understanding) <br />
 
 <b>2011 -</b> <span style="padding-left: 35px;"> <b style="color:DodgerBlue;">Thesis/Working student </b> <br />
 <b>2013</b> <span style="padding-left: 46px;">                   Daimler Research, Böblingen, Germany <br />
