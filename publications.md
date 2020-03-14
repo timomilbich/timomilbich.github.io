@@ -8,11 +8,18 @@ A huge thanks to all my collaborators which helped to successfully realize the f
 
 <hr>
 
-<p><b>PADS: Policy-adapted Sampling for Visual Similarity Learning </b>
-<a type="button" href="{{ site.baseurl}}/papers/magnification_cvpr20.pdf" target="_blank">
-<font color="lightgrey"><b>[PDF]</b></font></a> 
-<a type="button" href="{{ site.baseurl }}/bibtex/magnification_cvpr20.md" target="_blank">
-<font color="lightgrey"><b>[BibTex]</b></font></a><br />
+
+<p><b>Revisiting Training Strategies and Generalization Performance in Deep Metric Learning </b>
+<a type="button" href="https://arxiv.org/pdf/2002.08473.pdf" target="_blank">
+<font color="lightgrey"><b>[PDF]</b></font></a><br />
+
+T.Milbich*, K.Roth*, S.Sinha, P.Gupta, B.Ommer, J.P.Cohen<br />
+Under Review <br />
+</p>
+
+
+
+<p><b>PADS: Policy-adapted Sampling for Visual Similarity Learning </b><br />
 
 T.Milbich*, K.Roth*, B.Ommer<br />
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020 <br />
