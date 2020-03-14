@@ -3,7 +3,7 @@ title: About Me
 permalink: /aboutme/
 ---
 
-My interest in and passion for processing and analyzing visual data sparked during my studies in Mathematics and Scientifc Computing, which I fully dedicated to the areas of Computer Vision, Machine Learning and Optimization. Since then I have been able to explore these areas further while persuing a Ph.D. in Computer Vision at the Heidelberg Collaboratory for Image Processing (HCI) - one of Germany's biggest and prestigious institutes in this area. Under the supervision of Prof. Björn Ommer I actively contribute to research in learning representations for and similarities between images, as well as analyzing human poses and their dynamics.
+My interest in and passion for processing and analyzing visual data sparked during my studies in Mathematics and Scientifc Computing, which I fully dedicated to the areas of Computer Vision, Machine Learning and Optimization. Since then I have been able to explore these areas further while pursuing a Ph.D. in Computer Vision at the Heidelberg Collaboratory for Image Processing (HCI) - one of Germany's biggest and prestigious institutes in this area. Under the supervision of Prof. Björn Ommer I actively contribute to research in learning representations for and similarities between images, as well as analyzing human poses and their dynamics.
 
 Aside from my research and teaching duties, I love to play Volleyball with my team and friends, hike and get lost in nature around the globe or just spend my time in cafes reading books and learning new things.
 
