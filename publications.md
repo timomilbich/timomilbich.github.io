@@ -19,7 +19,9 @@ Under Review <br />
 
 
 
-<p><b>PADS: Policy-adapted Sampling for Visual Similarity Learning </b><br />
+<p><b>PADS: Policy-adapted Sampling for Visual Similarity Learning </b>
+<a type="button" href="https://arxiv.org/pdf/2003.11113.pdf" target="_blank">
+<font color="lightgrey"><b>[PDF]</b></font></a> <br />
 
 T.Milbich*, K.Roth*, B.Ommer<br />
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020 <br />
