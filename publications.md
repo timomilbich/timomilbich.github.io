@@ -8,6 +8,13 @@ A huge thanks to all my collaborators which helped to successfully realize the f
 
 <hr>
 
+<p><b>Sharing Matters for Generalization in Deep Metric Learning </b>
+<a type="button" href="https://arxiv.org/abs/2004.05582" target="_blank">
+<font color="lightgrey"><b>[PDF]</b></font></a><br />
+
+T.Milbich*, K.Roth*, B.Brattoli, B.Ommer<br />
+</p>
+
 
 <p><b>Revisiting Training Strategies and Generalization Performance in Deep Metric Learning </b>
 <a type="button" href="https://arxiv.org/pdf/2002.08473.pdf" target="_blank">
