@@ -8,6 +8,14 @@ A huge thanks to all my collaborators which helped to successfully realize the f
 
 <hr>
 
+<p><b>DiVA: Diverse Visual Feature Aggregation for Deep Metric Learning </b>
+<a type="button" href="https://128.84.21.199/pdf/2004.13458.pdf" target="_blank">
+<font color="lightgrey"><b>[PDF]</b></font></a><br />
+
+Timo Milbich, Karsten Roth, Homanga Bharadhwaj, Samarth Sinha, Yoshua Bengio, Björn Ommer, Joseph Paul Cohen<br />
+</p>
+
+
 <p><b>Sharing Matters for Generalization in Deep Metric Learning </b>
 <a type="button" href="https://arxiv.org/abs/2004.05582" target="_blank">
 <font color="lightgrey"><b>[PDF]</b></font></a><br />
