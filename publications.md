@@ -29,7 +29,7 @@ T.Milbich*, K.Roth*, B.Brattoli, B.Ommer<br />
 <font color="lightgrey"><b>[PDF]</b></font></a><br />
 
 T.Milbich*, K.Roth*, S.Sinha, P.Gupta, B.Ommer, J.P.Cohen<br />
-Under Review <br />
+Proceedings of the IEEE International Conference on Machine Learning (ICML) 2020 <br />
 </p>
 
 
