@@ -115,5 +115,5 @@ Proceedings of the IEEE International Conference on Computer Vision (ICCV) Works
 
 M.Muffert, T.Milbich, D.Pfeiffer and U.Franke<br />
 IEEE Intelligent Vehicles Symposium (IV) 2012<br />
-<b style="color:DodgerBlue;">[Oral] [Paper Award - Runner Up]</b></p>
+<b style="color:DodgerBlue;">[Oral] [Best Paper Award - Runner Up]</b></p>
 
