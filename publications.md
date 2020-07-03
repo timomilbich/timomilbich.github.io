@@ -13,6 +13,7 @@ A huge thanks to all my collaborators which helped to successfully realize the f
 <font color="lightgrey"><b>[PDF]</b></font></a><br />
 
 Timo Milbich*, Karsten Roth*, Homanga Bharadhwaj, Samarth Sinha, Yoshua Bengio, Björn Ommer, Joseph Paul Cohen<br />
+Proceedings of the IEEE International Conference on Computer Vision (ICCV) 2020<br />
 </p>
 
 
