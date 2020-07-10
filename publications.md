@@ -22,6 +22,7 @@ Proceedings of the IEEE European Conference on Computer Vision (ECCV) 2020<br />
 <font color="lightgrey"><b>[PDF]</b></font></a><br />
 
 T.Milbich*, K.Roth*, B.Brattoli, B.Ommer<br />
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2020<br />
 </p>
 
 
