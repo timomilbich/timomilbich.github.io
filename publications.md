@@ -8,21 +8,21 @@ A huge thanks to all my collaborators which helped to successfully realize the f
 
 <hr>
 
-<p><b>DiVA: Diverse Visual Feature Aggregation for Deep Metric Learning </b>
-<a type="button" href="https://128.84.21.199/pdf/2004.13458.pdf" target="_blank">
-<font color="lightgrey"><b>[PDF]</b></font></a><br />
-
-Timo Milbich*, Karsten Roth*, Homanga Bharadhwaj, Samarth Sinha, Yoshua Bengio, Björn Ommer, Joseph Paul Cohen<br />
-Proceedings of the IEEE European Conference on Computer Vision (ECCV) 2020<br />
-</p>
-
-
 <p><b>Sharing Matters for Generalization in Deep Metric Learning </b>
 <a type="button" href="https://arxiv.org/abs/2004.05582" target="_blank">
 <font color="lightgrey"><b>[PDF]</b></font></a><br />
 
 T.Milbich*, K.Roth*, B.Brattoli, B.Ommer<br />
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2020<br />
+</p>
+
+
+<p><b>DiVA: Diverse Visual Feature Aggregation for Deep Metric Learning </b>
+<a type="button" href="https://128.84.21.199/pdf/2004.13458.pdf" target="_blank">
+<font color="lightgrey"><b>[PDF]</b></font></a><br />
+
+Timo Milbich*, Karsten Roth*, Homanga Bharadhwaj, Samarth Sinha, Yoshua Bengio, Björn Ommer, Joseph Paul Cohen<br />
+Proceedings of the IEEE European Conference on Computer Vision (ECCV) 2020<br />
 </p>
 
 
@@ -33,7 +33,6 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2020<br /
 T.Milbich*, K.Roth*, S.Sinha, P.Gupta, B.Ommer, J.P.Cohen<br />
 Proceedings of the IEEE International Conference on Machine Learning (ICML) 2020 <br />
 </p>
-
 
 
 <p><b>PADS: Policy-adapted Sampling for Visual Similarity Learning </b>
