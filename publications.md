@@ -21,7 +21,7 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (C
 
 
 <p><b>Stochastic Image-to-Video Synthesis using cINNs </b><br />
-Michael Dorkenwald, Timo Milbich, Andreas Blattmann, B.Ommer<br />
+Michael Dorkenwald, Timo Milbich, Andreas Blattmann, Robin Rombach, Konstantinos G. Derpanis, B.Ommer<br />
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021<br />
 </p>
 
