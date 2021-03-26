@@ -8,11 +8,29 @@ A huge thanks to all my collaborators which helped to successfully realize the f
 
 <hr>
 
+<p><b>Behavior-Driven Synthesis of Human Dynamics </b><br />
+Timo Milbich*, Andreas Blattmann*, Michael Dorkenwald*, B.Ommer<br />
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021<br />
+</p>
+
+
+<p><b>Understanding Object Dynamics for Interactive Image-to-Video-Synthesis </b><br />
+Andreas Blattmann, Timo Milbich, Michael Dorkenwald, B.Ommer<br />
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021<br />
+</p>
+
+
+<p><b>Stochastic Image-to-Video Synthesis using cINNs </b><br />
+Michael Dorkenwald, Timo Milbich, Andreas Blattmann, B.Ommer<br />
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021<br />
+</p>
+
+
 <p><b>Sharing Matters for Generalization in Deep Metric Learning </b>
 <a type="button" href="https://arxiv.org/abs/2004.05582" target="_blank">
 <font color="lightgrey"><b>[PDF]</b></font></a><br />
 
-T.Milbich*, K.Roth*, B.Brattoli, B.Ommer<br />
+Timo Milbich*, Karsten Roth*, Biagio Brattoli, B.Ommer<br />
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2020<br />
 </p>
 
